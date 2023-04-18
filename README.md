@@ -1,11 +1,15 @@
 # Interior Wall Decorations and My Pictures
 This is a mod for **The Long Dark** by Hinterland Studio, Inc.
+
+## Version 2.0
+-Updated by Atlas Lumi and Thekillergreece
+
 <img src="https://github.com/stmSantana/InteriorWallDecorations/blob/main/Images/Gallery/Gallery.jpg">
 <img src="https://github.com/stmSantana/InteriorWallDecorations/blob/main/Images/Gallery/Gallery%20(12).jpg" width="48%"> <img src="https://github.com/stmSantana/InteriorWallDecorations/blob/main/Images/Gallery/Gallery%20(8).jpg" width="48%">
 
 ## Installation v1.4.1
 * If you haven't done so already, install MelonLoader by downloading and running [MelonLoader.Installer.exe](https://github.com/HerpDerpinstine/MelonLoader/releases/latest/download/MelonLoader.Installer.exe)
-* Install the latest version of [ModComponent](https://github.com/ds5678/ModComponent) and its dependencies.
+* Install the latest version of [ModComponent](https://github.com/dommrogers/ModComponent) and its dependencies.
 * Download latest version of `Wall_Interior.zip` from the [releases page](https://github.com/stmSantana/InteriorWallDecorations/releases/latest).
 * You will need to unzip(extract) the downloaded Zip and move the files and folders in it to the Mods folder. I explain it in detail below. <br>**(Caution! Do not move the Zip file itself to the Mods folder.)**
 * Move **MyPicturesMod.dll** file to the your Mods folder.<br>
@@ -17,7 +21,6 @@ This is a mod for **The Long Dark** by Hinterland Studio, Inc.
 
 ### Recommended mods
 * [Placing Anywhere by Xpazeman](https://github.com/Xpazeman/tld-placing-anywhere)
-* [PlaceFromInventory by zorgesho](https://github.com/zorgesho/TheLongDarkMods/tree/master/PlaceFromInventory)
 
 ## Description v1.4
 ### New(1.4): My Pictures Feature ###
