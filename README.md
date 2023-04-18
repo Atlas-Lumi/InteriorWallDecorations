@@ -12,10 +12,10 @@ This is a mod for **The Long Dark** by Hinterland Studio, Inc.
 
 <img src="https://github.com/stmSantana/InteriorWallDecorations/blob/main/Images/Gallery/Gallery%20(12).jpg" width="48%"> <img src="https://github.com/stmSantana/InteriorWallDecorations/blob/main/Images/Gallery/Gallery%20(8).jpg" width="48%">
 
-## Installation v1.4.1
+## Installation v2.0
 * If you haven't done so already, install MelonLoader by downloading and running [MelonLoader.Installer.exe](https://github.com/HerpDerpinstine/MelonLoader/releases/latest/download/MelonLoader.Installer.exe)
 * Install the latest version of [ModComponent](https://github.com/dommrogers/ModComponent) and its dependencies.
-* Download latest version of `Wall_Interior.zip` from the [releases page](https://github.com/stmSantana/InteriorWallDecorations/releases/latest).
+* Download latest version of `InteriorWallDecorations.zip` from the [releases page](https://github.com/Atlas-Lumi/InteriorWallDecorations/releases/latest).
 * You will need to unzip(extract) the downloaded Zip and move the files and folders in it to the Mods folder. I explain it in detail below. <br>**(Caution! Do not move the Zip file itself to the Mods folder.)**
 * Move **MyPicturesMod.dll** file to the your Mods folder.<br>
 * Move **Wall_Interior.modcomponent** file to your Mods folder.
