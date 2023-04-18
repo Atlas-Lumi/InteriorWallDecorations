@@ -20,7 +20,7 @@ This is a mod for **The Long Dark** by Hinterland Studio, Inc.
 * Move **MyPicturesMod.dll** file to the your Mods folder.<br>
 * Move **Wall_Interior.modcomponent** file to your Mods folder.
 * Move **WallMyPictures** folder and all files in it to the Mods folder.
-- **New! v1.4.1** - Optional installation (The following operation is optional. Doing so will install an additional 20 posters for My Pictures. They are all 2 meters square.)<br>
+- **New! v1.4.1** - Optional installation (The following operation is optional. Doing so will install an additional 20 posters for My Pictures.)<br>
 -- Move **Wall_Interior_sqr.modcomponent** to your Mods folder.<br>
 -- Move **WallMyPicturesSqr** folder in the downloaded ZIP and all files in it to the Mods folder.<br>
 
