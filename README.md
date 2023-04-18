@@ -5,7 +5,11 @@ This is a mod for **The Long Dark** by Hinterland Studio, Inc.
 -Updated by Atlas Lumi and Thekillergreece
 
 <img src="https://github.com/stmSantana/InteriorWallDecorations/blob/main/Images/Gallery/Gallery.jpg">
+
+# Different sizes for pictures
 <img src="https://github.com/Atlas-Lumi/InteriorWallDecorations/blob/main/Images/Gallery/pictures.jpg">
+
+
 <img src="https://github.com/stmSantana/InteriorWallDecorations/blob/main/Images/Gallery/Gallery%20(12).jpg" width="48%"> <img src="https://github.com/stmSantana/InteriorWallDecorations/blob/main/Images/Gallery/Gallery%20(8).jpg" width="48%">
 
 ## Installation v1.4.1
