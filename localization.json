@@ -1,0 +1,298 @@
+{
+        "GAMEPLAY_MapBRM": {
+                "English": "Blackrock map",
+                "Turkish": "Blackrock Haritası"
+        },
+        "GAMEPLAY_MapBRMDescription": {
+                "English": "A map of Blackrock region.",
+                "Turkish": "Blackrock bölgesinin haritası"
+        },
+        "GAMEPLAY_WallCalA": {
+                "English": "Calendar",
+                "Turkish": "Takvim"
+        },
+        "GAMEPLAY_WallCalADescription": {
+                "English": "A calendar with numerical days on it.",
+                "Turkish": "Üzerinde sayısal günler olan bir takvim."
+        },
+        "GAMEPLAY_WallCpicA": {
+                "English": "Painting",
+                "Turkish": "Resim"
+        },
+        "GAMEPLAY_WallCpicADescription": {
+                "English": "A painting of Camp Office.",
+                "Turkish": "Kamp Ofisi'nin bir tablosu."
+        },
+        "GAMEPLAY_WallCpicBe": {
+                "English": "Painting",
+                "Turkish": "Resim"
+        },
+        "GAMEPLAY_WallCpicBeDescription": {
+                "English": "A painting of a bear.",
+                "Turkish": "Bir ayı resmi."
+        },
+        "GAMEPLAY_WallCpicDp": {
+                "English": "Painting",
+                "Turkish": "Resim"
+        },
+        "GAMEPLAY_WallCpicDpDescription": {
+                "English": "A painting of Lighthouse.",
+                "Turkish": "Bir Deniz Feneri tablosu."
+        },
+        "GAMEPLAY_WallCpicMo": {
+                "English": "Painting",
+                "Turkish": "Resim"
+        },
+        "GAMEPLAY_WallCpicMoDescription": {
+                "English": "A painting of a Moose.",
+                "Turkish": "Amerikan Geyiği Resmi"
+        },
+        "GAMEPLAY_WallFrameB": {
+                "English": "Wall frame",
+                "Turkish": "Duvar çerçevesi"
+        },
+        "GAMEPLAY_WallFrameBDescription": {
+                "English": "A wall frame.",
+                "Turkish": "Bir Duvar çerçevesi"
+        },
+        "GAMEPLAY_WallFrameG": {
+                "English": "Wall frame",
+                "Turkish": "Duvar çerçevesi"
+        },
+        "GAMEPLAY_WallFrameGDescription": {
+                "English": "A wall frame.",
+                "Turkish": "Bir Duvar Çerçevesi"
+        },
+        "GAMEPLAY_WallFrameR": {
+                "English": "Wall frame",
+                "Turkish": "Duvar çerçevesi"
+        },
+        "GAMEPLAY_WallFrameRDescription": {
+                "English": "A wall frame.",
+                "Turkish": "Bir Duvar Çerçevesi"
+        },
+        "GAMEPLAY_WalliRP1": {
+                "English": "Poster",
+                "Turkish": "Poster"
+        },
+        "GAMEPLAY_WalliRP1Description": {
+                "English": "A poster.",
+                "Turkish": "Bir Poster"
+        },
+        "GAMEPLAY_WalliRP2": {
+                "English": "Poster",
+                "Turkish": "Poster"
+        },
+        "GAMEPLAY_WalliRP2Description": {
+                "English": "A poster.",
+                "Turkish": "Bir Poster"
+        },
+        "GAMEPLAY_WalliRP3": {
+                "English": "Poster",
+                "Turkish": "Poster"
+        },
+        "GAMEPLAY_WalliRP3Description": {
+                "English": "A poster.",
+                "Turkish": "Bir Poster"
+        },
+        "GAMEPLAY_WallMyPicCalA": {
+                "English": "Picture",
+                "Turkish": "Fotoğraf"
+        },
+        "GAMEPLAY_WallMyPicCalADescription": {
+                "English": "A picture.",
+                "Turkish": "Bir fotoğraf"
+        },
+        "GAMEPLAY_WallMyPicCalB": {
+                "English": "Picture",
+                "Turkish": "Fotoğraf"
+        },
+        "GAMEPLAY_WallMyPicCalBDescription": {
+                "English": "A picture.",
+                "Turkish": "Bir fotoğraf"
+        },
+        "GAMEPLAY_WallMyPicCalC": {
+                "English": "Picture",
+                "Turkish": "Fotoğraf"
+        },
+        "GAMEPLAY_WallMyPicCalCDescription": {
+                "English": "A picture.",
+                "Turkish": "Bir fotoğraf"
+        },
+        "GAMEPLAY_WallMyPicFrameB": {
+                "English": "Frame Picture",
+                "Turkish": "Çerçeve Fotoğrafı"
+        },
+        "GAMEPLAY_WallMyPicFrameBDescription": {
+                "English": "A frame picture.",
+                "Turkish": "Bir çerçeve fotoğrafı"
+        },
+        "GAMEPLAY_WallMyPicFrameG": {
+                "English": "Frame Picture",
+                "Turkish": "Çerçeve Fotoğrafı"
+        },
+        "GAMEPLAY_WallMyPicFrameGDescription": {
+                "English": "A frame picture.",
+                "Turkish": "Bir çerçeve fotoğrafı"
+        },
+        "GAMEPLAY_WallMyPicFrameR": {
+                "English": "Frame Picture",
+                "Turkish": "Çerçeve Fotoğrafı"
+        },
+        "GAMEPLAY_WallMyPicFrameRDescription": {
+                "English": "A frame picture.",
+                "Turkish": "Bir çerçeve fotoğrafı"
+        },
+        "GAMEPLAY_WallMyPicPosterA": {
+                "English": "Frame Poster",
+                "Turkish": "Çerçeve Fotoğrafı"
+        },
+        "GAMEPLAY_WallMyPicPosterADescription": {
+                "English": "A frame poster.",
+                "Turkish": "Bir çerçeve fotoğrafı"
+        },
+        "GAMEPLAY_WallMyPicPosterB": {
+                "English": "Frame Poster",
+                "Turkish": "Çerçeve Fotoğrafı"
+        },
+        "GAMEPLAY_WallMyPicPosterBDescription": {
+                "English": "A frame poster.",
+                "Turkish": "Bir çerçeve fotoğrafı"
+        },
+        "GAMEPLAY_WallMyPicPosterC": {
+                "English": "Frame Poster",
+                "Turkish": "Çerçeve Fotoğrafı"
+        },
+        "GAMEPLAY_WallMyPicPosterCDescription": {
+                "English": "A frame poster.",
+                "Turkish": "Bir çerçeve fotoğrafı"
+        },
+        "GAMEPLAY_WallPicFA": {
+                "English": "Frame and picture",
+                "Turkish": ""
+        },
+        "GAMEPLAY_WallPicFADescription": {
+                "English": "A frame and picture.",
+                "Turkish": "Çerçeve ve resim"
+        },
+        "GAMEPLAY_WallPicFPcake": {
+                "English": "Frame and cake picture",
+                "Turkish": "Çerçeveli pasta resmi"
+        },
+        "GAMEPLAY_WallPicFPcakeDescription": {
+                "English": "A frame and cake picture.",
+                "Turkish": "Çerçevelenmiş bir pasta resmi"
+        },
+        "GAMEPLAY_WallPin1B": {
+                "English": "Blue pin",
+                "Turkish": "Mavi iğne"
+        },
+        "GAMEPLAY_WallPin1BDescription": {
+                "English": "A blue pin.",
+                "Turkish": "Mavi bir iğne"
+        },
+        "GAMEPLAY_WallPin1G": {
+                "English": "Green pin",
+                "Turkish": "Yeşil İğne"
+        },
+        "GAMEPLAY_WallPin1GDescription": {
+                "English": "A green pin.",
+                "Turkish": "Yeşil bir iğne"
+        },
+        "GAMEPLAY_WallPin1R": {
+                "English": "Red pin",
+                "Turkish": "Kırmızı iğne"
+        },
+        "GAMEPLAY_WallPin1RDescription": {
+                "English": "A red pin.",
+                "Turkish": "Kırmızı bir iğne"
+        },
+        "GAMEPLAY_WallPinBoxB": {
+                "English": "Blue pin box",
+                "Turkish": "Mavi iğne kutusu"
+        },
+        "GAMEPLAY_WallPinBoxBDescription": {
+                "English": "A blue box filled with blue pins.",
+                "Turkish": "Mavi iğnelerle dolu mavi bir kutu."
+        },
+        "GAMEPLAY_WallPinBoxG": {
+                "English": "Green pin box",
+                "Turkish": "Yeşil iğne kutusu"
+        },
+        "GAMEPLAY_WallPinBoxGDescription": {
+                "English": "A green box filled with green pins.",
+                "Turkish": "Yeşil iğnelelerle dolu yeşil bir kutu"
+        },
+        "GAMEPLAY_WallPinBoxR": {
+                "English": "Red pin box",
+                "Turkish": "Kırımzı iğne kutusu"
+        },
+        "GAMEPLAY_WallPinBoxRDescription": {
+                "English": "A red box filled with red pins.",
+                "Turkish": "Kırmızı iğnelerle dolu kırmızı bir kutu"
+        },
+        "GAMEPLAY_WallPinRY": {
+                "English": "Yellow pin",
+                "Turkish": "Sarı iğne"
+        },
+        "GAMEPLAY_WallPinRYDescription": {
+                "English": "A yellow pin.",
+                "Turkish": "Sarı bir iğne"
+        },
+        "GAMEPLAY_WallPosterCH": {
+                "English": "Region Poster",
+                "Turkish": "Bölge Posteri"
+        },
+        "GAMEPLAY_WallPosterCHDescription": {
+                "English": "A Coastal Highway region poster.",
+                "Turkish": "Sahil Yolu bölgesi posteri."
+        },
+        "GAMEPLAY_WallPosterDP": {
+                "English": "Region Poster",
+                "Turkish": "Bölge Posteri"
+        },
+        "GAMEPLAY_WallPosterDPDescription": {
+                "English": "A Desolation Point region poster.",
+                "Turkish": "Terkedilmiş Topraklar bölgesi posteri."
+        },
+        "GAMEPLAY_WallPosterML": {
+                "English": "Region Poster",
+                "Turkish": "Bölge Posteri"
+        },
+        "GAMEPLAY_WallPosterMLDescription": {
+                "English": "A Mystery Lake region poster.",
+                "Turkish": "Gizemli Göl bölgesi haritası"
+        },
+        "GAMEPLAY_WallTapeYR5A10": {
+                "English": "Small tape",
+                "Turkish": "Küçük bant"
+        },
+        "GAMEPLAY_WallTapeYR5A10Description": {
+                "English": "A small yellow tape.",
+                "Turkish": "Küçük sarı bir bant."
+        },
+        "GAMEPLAY_WallTapeYR5B50": {
+                "English": "Medium tape",
+                "Turkish": "Orta boy bant"
+        },
+        "GAMEPLAY_WallTapeYR5B50Description": {
+                "English": "A medium yellow tape.",
+                "Turkish": "Orta boy sarı bir bant."
+        },
+        "GAMEPLAY_WallTapeYR5C100": {
+                "English": "Long tape",
+                "Turkish": "Uzun bant"
+        },
+        "GAMEPLAY_WallTapeYR5C100Description": {
+                "English": "A long yellow tape.",
+                "Turkish": "Uzun sarı bir bant."
+        },
+        "GAMEPLAY_WallTapeYR5Z": {
+                "English": "Tape",
+                "Turkish": "Bant"
+        },
+        "GAMEPLAY_WallTapeYR5ZDescription": {
+                "English": "A yellow tape.",
+                "Turkish": "Sarı bir bant"
+        }
+}
